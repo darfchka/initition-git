@@ -14,15 +14,26 @@ commit c'est la commande qui prend l'instantané et stocke les modification une 
 
 branche :espace personnel sur lequel on travaille  
 
-gitinit initialise un nouveau depot git ou repository
-git config configurer entrer ses identifiants
-git help affiche les 21 commandes a notre disposition
-git status indique sur quelle on est savoir si les modification on eté sauvegarder
-git add faire un point sur ce qui a eté ajouté de nouveaux ce qui est en plus depûis le dernier commit
-git commit sauvegarde en local de nos modifications 
-git branch utilisé tout seul pour travailler sur une partie du projet
-git checkout naviguer entre les branches
-git merg fusionner notre branch avec la branch principale du projet
-git push : envoyer derniere modification en ligne
-git pull récupére du travail en ligne vers le local
+gitinit initialise un nouveau depot git ou repository  
+
+git config configurer entrer ses identifiants  
+
+git help affiche les 21 commandes a notre disposition  
+
+git status indique sur quelle on est savoir si les modification on eté sauvegarder  
+
+git add faire un point sur ce qui a eté ajouté de nouveaux ce qui est en plus depûis le dernier commit  
+
+git commit sauvegarde en local de nos modifications  
+
+git branch utilisé tout seul pour travailler sur une partie du projet  
+
+git checkout naviguer entre les branches  
+
+git merg fusionner notre branch avec la branch principale du projet  
+
+git push : envoyer derniere modification en ligne  
+
+git pull récupére du travail en ligne vers le local  
+
 git clone duplique un repertoire ou projet depuis github
