@@ -2,12 +2,18 @@ git hub
 plus grand stockage de travaux collaboratifs dans le monde un réseaux social  
 
 possibilité de créer un profil et y deposer des projets et les partager avec d'autre utilisateur et suivre le compte d'autres personnes  
-logiciel de controle de version il gere les notification d'un projet sans ecraser les partie precedentes
-vocabulaire: ligne de commande programme sur lequel on rentre les commandes git que si on a telechargé git
-depository espace de stockage dédié a un projet on peut le sauvegarder soit en ligne soit en local contient des code images fichier textes
-controle de version instantané de notre travail et le stocker en plus des autres d'avant
-commit c'est la commande qui prend l'instantané et stocke les modification une sauvegarde
-branche :espace personnel sur lequel on travaille
+logiciel de controle de version il gere les notification d'un projet sans ecraser les partie precedentes 
+
+vocabulaire: ligne de commande programme sur lequel on rentre les commandes git que si on a telechargé git 
+
+depository espace de stockage dédié a un projet on peut le sauvegarder soit en ligne soit en local contient des code images fichier textes  
+
+controle de version instantané de notre travail et le stocker en plus des autres d'avant  
+
+commit c'est la commande qui prend l'instantané et stocke les modification une sauvegarde  
+
+branche :espace personnel sur lequel on travaille  
+
 gitinit initialise un nouveau depot git ou repository
 git config configurer entrer ses identifiants
 git help affiche les 21 commandes a notre disposition
