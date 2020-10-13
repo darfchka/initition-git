@@ -17,3 +17,5 @@ git branch utilisé tout seul pour travailler sur une partie du projet
 git checkout naviguer entre les branches
 git merg fusionner notre branch avec la branch principale du projet
 git push : envoyer derniere modification en ligne
+git pull récupére du travail en ligne vers le local
+git clone duplique un repertoire ou projet depuis github
